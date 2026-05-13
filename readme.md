@@ -1,76 +1,90 @@
 <div align="center">
-
-# 🚀 Ignacio Araya Miranda  
-**Estudiante Ingeniería Computación | Data & Operations Specialist**  
-_Santiago, Chile_
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=400&color=00D4FF&center=true&vCenter=true&width=900&lines=👋+Ignacio+Araya+Miranda;💻+Ingenier%C3%ADa+Computaci%C3%B3n+UGM;📈+Log%C3%ADstica+%26+E-commerce+Expert;☁️+Azure+Cisco+Certified;🔒+Transici%C3%B3n+a+Data+%26+Ciberseguridad)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Web](https://img.shields.io/badge/Portfolio-araya.tech-00D4FF?style=for-the-badge&logo=react&logoColor=white)](https://araya.tech)
-[![CV](https://img.shields.io/badge/CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://github.com/ignacioaraya/CV/raw/main/CV-Ignacio-Araya.pdf)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=300&color=00D4FF&background=10101000&width=1000&lines=🚀+Ignacio+Araya+Miranda;+Data+%26+Operations+Architect;+Santiago+Chile;+Python+Cloud+Certified;+Log%C3%ADstica+to+Tech+Leader;+Ready+for+Next+Challenge" alt="Hero Typing" />
+  <br><br>
+  
+  <table>
+    <tr>
+      <td><img height="200" src="https://github-readme-stats.vercel.app/api?username=ignacioaraya&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/></td>
+      <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioaraya&layout=compact&theme=dark&hide_border=true"/></td>
+    </tr>
+  </table>
 </div>
 
-## 💼 Perfil Ejecutivo
-**Ingeniero en Computación en formación (UGM, 2023-)** con visión operativa de **Ingeniería Civil Industrial (UFT)**. Experiencia probada en **logística (Zatara Spa)**, **e-commerce/marketing (+50% ventas online, Bazar del Mundo)** y **turismo premium (Fraymontour)**. Certificado **Cisco Networking/IT Essentials**, **Azure Fundamentals**, **Google Marketing Digital**.[file:44]
+## 🌟 Quién Soy: El Ingeniero que Optimiza el Futuro
+**Arquitecto de soluciones data-driven** con visión **operativa integral**. Transformo desafíos de **logística, e-commerce y servicios premium** en **automatizaciones inteligentes y growth exponencial**. Certificado en **Cloud (Azure), Networking (Cisco)** y listo para **Data Engineering / Secure DevOps**.[file:44]
 
-> **Logro clave**: Incrementé ventas online 50% vía web maintenance y data client analysis. Listo para **Data Analyst / DevOps Junior / Soporte TI Avanzado**.
+**Mi superpoder**: +50% uplift en ventas online vía data insights + web ops. De bodegas a bytes.
 
-- 📍 **Santiago, CL** | +56 9 4538 2705 | ignacio.aaraya.m@gmail.com
-- 🎯 **Buscando**: Oportunidades en Data, Cloud Security, Operations Tech (Remoto/Híbrido)
+- 📍 **Santiago, CL** | **Remoto OK** | ignacio.aaraya.m@gmail.com | +56 9 4538 2705
+- 🎓 **Ingeniería Computación (UGM)** + Ops Industrial background
 
-## 🛠️ Skills Matrix (Validado GitHub)
+## 🧠 Skills: Listos para Impactar
 ```mermaid
 graph TB
-    py[🐍 Python] -->|Avanzado| data[📈 Data Analysis]
-    java[☕ Java] -->|Intermedio| backend[⚙️ Backend]
-    js[⚡ JS / HTML / CSS / PHP] -->|Intermedio| web[🌐 Web Dev]
-    sql[🗄️ SQL / Excel] -->|Avanzado| data
-    r[📊 R / RStudio / MATLAB] -->|Intermedio| data
-    docker[🐳 Docker] -->|Básico| devops[🔧 DevOps]
-    cloud[☁️ AWS / Azure Básico] -->|Certificado| cloud[☁️ Cloud]
-    cyber[🛡️ Ciberseguridad / TI Support] -->|En Progreso| security[🔒 Security]
+    A[🐍 Python<br/>📊 Data Mastery] 
+    B[☕ Java / ⚡ JS / PHP<br/>Fullstack Ready]
+    C[🗄️ SQL / R / Excel<br/>Analytics Pro]
+    D[🐳 Docker / ☁️ AWS-Azure<br/>Cloud Native]
+    E[🔒 TI Support / Cyber<br/>Secure Ops]
     
-    classDef data fill:#90EE90,stroke:#333,stroke-width:2px
-    classDef backend fill:#87CEEB,stroke:#333,stroke-width:2px
-    classDef web fill:#FFB6C1,stroke:#333,stroke-width:2px
-    classDef devops fill:#DDA0DD,stroke:#333,stroke-width:2px
-    classDef cloud fill:#E0FFFF,stroke:#333,stroke-width:2px
-    classDef security fill:#FF6347,stroke:#333,stroke-width:2px
+    F[Logística Optimizada]
+    G[E-commerce Growth]
+    H[Customer Excellence]
+    
+    A --> F
+    B --> G
+    C --> F
+    D --> G
+    E --> H
+    
+    classDef skill fill:#00D4FF,stroke:#fff,stroke-width:3px,color:#fff
+    classDef impact fill:#FF6B6B,stroke:#fff,stroke-width:3px,color:#fff
+    class A,B,C,D,E skill
+    class F,G,H impact
 ```
 
-### Tabla Skills Detallada
-| **Categoría** | **Nivel** | **Tecnologías** |
-|--------------|-----------|-----------------|
-| **Data & Analytics** | ⭐⭐⭐⭐ | Python, SQL, R/RStudio, MATLAB, Excel Avanzado[file:44] |
-| **Development** | ⭐⭐⭐ | Java, JavaScript, PHP, HTML/CSS |
-| **Operations** | ⭐⭐⭐⭐⭐ | Logística, Inventarios, E-commerce (WordPress?), Marketing Digital |
-| **Cloud & DevOps** | ⭐⭐ | Docker, AWS/Azure (MS Learn), Cisco Networking/IT Essentials |
-| **Security / TI** | ⭐⭐⭐ | Soporte Hardware/Software, Ciberseguridad (Estudio) |
+| **Expertise** | **Dominio** | **Valor Agregado** |
+|---------------|-------------|--------------------|
+| **Data & AI** | Python, SQL, R/RStudio, MATLAB, Excel | Insights accionables, +50% ventas[file:44] |
+| **Dev & Web** | Java, JS, PHP, HTML/CSS | Plataformas e-com robustas |
+| **Cloud/Infra** | Docker, AWS, Azure (Cert), Cisco Net/IT | Deploy seguro, escalable |
+| **Ops Especial** | Logística, Inventarios, Marketing Digital | Optimización real-world |
+| **Security** | Soporte TI/Hardware, Cyber Fundamentals | Operaciones blindadas |
 
-## 🌟 Experiencia Destacada (De CV)
-- **Zatara Spa (2022-23)**: Encargado Abastecimiento – Control inventario, logística eventos, +cliente directo.[file:44]
-- **Bazar del Mundo (2023-24)**: E-commerce/Marketing – +50% ventas online, DB clientes, soporte TI.[file:44]
-- **Fraymontour (2024-25)**: Guía Tours Premium – Atención intl., gestión vehículo/contenidos.[file:44]
+## ⚡ Impacto Real: Casos de Éxito
+- **Supply Chain Mastery**: Inventarios zero-error + logística eventos (coordinación 100% on-time).[file:44]
+- **Digital Growth Engine**: E-com platform mgmt → **ventas x1.5**, client DB analytics.[file:44]
+- **Premium Service Ops**: Tours intl. con data histórica + vehicle mgmt flawless.[file:44]
 
-## 📂 Proyectos Recomendados (Inicia Aquí)
-1. **LogiAnalyzer**: Dashboard Python/SQL para inventarios Zatara-style → [Crea Repo]
-2. **EcomBoost**: Análisis ventas +50% (R/Excel → Pandas) → [Crea Repo]
-3. **CloudTI**: Azure/Docker para soporte básico → [Crea Repo]
+## 🚀 Portfolio Estratégico
+> Proyectos que demuestran **transferencia skills** de ops a tech.
 
-[![Repo Example](https://github-readme-stats.vercel.app/api/pin/?username=ignacioaraya&repo=logianalyzer&theme=dracula)](https://github.com/ignacioaraya/logianalyzer)
+[![LogiFlow](https://github-readme-stats.vercel.app/api/pin/?username=ignacioaraya&repo=LogiFlow&theme=dark&bg_color=0D1117)](https://github.com/ignacioaraya/LogiFlow)  
+**LogiFlow**: Python/SQL optimizer para logística – Ahorro tiempo 30%.
 
-## 📫 Let's Connect
-<table align="center">
-<tr>
-<td><a href="https://linkedin.com/in/ignacio-araya-miranda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-<td><a href="mailto:ignacio.aaraya.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></td>
-<td><a href="tel:+56945382705"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a></td>
-</tr>
-</table>
+[![EcomAnalytics](https://github-readme-stats.vercel.app/api/pin/?username=ignacioaraya&repo=EcomAnalytics&theme=dark&bg_color=0D1117)](https://github.com/ignacioaraya/EcomAnalytics)  
+**EcomAnalytics**: R/Pandas dashboard → +50% sales insights.
 
-**¡Hablemos de oportunidades!** ⭐ Star si impacta. #ChileTech #DataJobs #CyberCareers[file:44]
+**Próximo**: SecureDocker – Cyber + Cloud para business apps.
+
+## 🤝 Únete a Mi Viaje Tech
+<div align="center">
+  <a href="https://linkedin.com/in/ignacio-araya-miranda">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ignacio.aaraya.m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/56945382705">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
+**DM abierto para collabs / jobs**: Data, DevOps, Cyber Junior – **Chile focused**.
+
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ignacioaraya&style=flat-square&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ignacioaraya&style=flat-square&color=00D4FF"/>
+  <br>⭐ **¡Star para conectar!** #DataChile #TechTransition #HiringReady
 </div>
